@@ -5,5 +5,6 @@ namespace HelloWorldBg
     public class Class1
     {
         // comment...
+        // comment2...
     }
 }
